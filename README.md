@@ -1,7 +1,7 @@
 # BMI_Calculator_Flutter
 
 ![alt text](https://github.com/varunbhutani98/BMI_Calculator_Flutter/blob/master/bmi1.jpg?raw=true  )    
-![alt text](https://github.com/varunbhutani98/BMI_Calculator_Flutter/blob/master/bmi1.jpg?raw=true)   
+![alt text](https://github.com/varunbhutani98/BMI_Calculator_Flutter/blob/master/bmi2.jpg?raw=true)   
 
 
 # What is Body Mass Index (BMI)?
